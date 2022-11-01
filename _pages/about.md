@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "This site is currently under construction. 
-
-About"
+title: "This site is currently under construction. About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
